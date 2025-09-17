@@ -1,0 +1,5 @@
+Pada praktikum ke 3 ini mempelajari mengenai deep learning dalam sistem kontrol, yang dimana program dirancang untuk sistem klasifikasi citra (gambar) berbasis Convolutional Neural Network (CNN) yang diintegrasikan dengan OpenCV untuk prediksi secara real-time
+Output yang dihasilkan berupa prediksi gambar/objek secara real time 
+Program akan menampilkan 2 jendela, pertama pada jendela bagian frame akan memprediksi gambar asli dari kamera dengan hasil prediksi yang ditulis pada layar
+Jendela kedua terdapat fitur Night Vision, pada  Night Vision akan ditampilkan gambar yang sama namun dalam mode visual alternatif menggunakan colormap
+Dalam praktikum ini, program dapat mengenali beberapa gambar seperti mountain, sea, street, building dan forest
